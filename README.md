@@ -23,9 +23,9 @@ Animaciones y efectos hover
 
 # 🚀 Tecnologías Utilizadas
 
-HTML5
-CSS3
-JavaScript Vanilla
-Bootstrap 5.3.2
-Font Awesome 6.4.0
+* HTML5
+* CSS3
+* JavaScript Vanilla
+* Bootstrap 5.3.2
+* Font Awesome 6.4.0
 
