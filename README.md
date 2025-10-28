@@ -1,6 +1,5 @@
 # STGO Joven - Sitio Web Institucional
 
-
 ![imagen principal](img/logoPrincipal.png)
 
 
