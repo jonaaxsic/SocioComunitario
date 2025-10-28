@@ -1,4 +1,4 @@
-#STGO Joven - Sitio Web Institucional
+# STGO Joven - Sitio Web Institucional
 
 ![Logo STGO Joven](img/logoPrincipal.png)
 
